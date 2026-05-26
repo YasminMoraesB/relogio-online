@@ -31,3 +31,7 @@ Site que exibe a hora atual e adapta visual e imagens de acordo com o período d
 > Não é necessário servidor ou instalação de dependências.
 
 ---
+
+<img src="./imagens/dia.png" width="700"/>
+<img src="./imagens/tarde.png" width="700"/>
+<img src="./imagens/noite.png" width="700"/>
